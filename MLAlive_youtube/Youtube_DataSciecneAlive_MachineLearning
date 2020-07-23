@@ -1,0 +1,23 @@
+Machine Learning :
+==================
+video1: just intro ML
+------
+Deep learning is part of Machine Learning and ML is part of Artificial Intellgence
+
+video2: Anaconda Python installation
+--------
+Download Anaconda Navigator s/w and Lauch Spyder Pythod Dev tool from Anaconda. 
+While installing Anaconda , Python will install automatically to the Machine/laptop.
+
+Video3: Download a Dataset Link is from Machine Learning Alive
+---------
+
+https://datasciencealive.wordpress.com 
+File Details of the Dataset
+
+Data_preprocessing.csv 
+
+Country,Age,Salary,Purchased
+Australia,27,52000,Yes
+Russia,25,49000,Yes
+India,30,56000,No
