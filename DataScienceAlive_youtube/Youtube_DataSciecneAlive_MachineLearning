@@ -9,6 +9,8 @@ video2: Anaconda Python installation
 Download Anaconda Navigator s/w and Lauch Spyder Pythod Dev tool from Anaconda. 
 While installing Anaconda , Python will install automatically to the Machine/laptop.
 
+print('welcome'); 
+
 Video3: Download a Dataset Link is from Machine Learning Alive
 ---------
 
@@ -21,3 +23,29 @@ Country,Age,Salary,Purchased
 Australia,27,52000,Yes
 Russia,25,49000,Yes
 India,30,56000,No
+
+Video4: Import libs into Python ( import dataset into Python editor)
+-----
+
+lib short name can use 'as' Alias
+
+numpy - all mathemaitcal function 
+pandas - to handle data set amd data framework
+matplotlib.pyplot as plt is a sub lib and represent the graph libs
+
+
+data_preprocessing.py
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+Video5: topics in Data Preprocessing - theory
+------
+Data Processing
+ 1. Missing value
+   1.1. categorical
+   1.2 Regression
+2.Categoriecal Data
+3.Data split for train and test
+4Feature scaling
